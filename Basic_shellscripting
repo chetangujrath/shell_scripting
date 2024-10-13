@@ -1,0 +1,18 @@
+#!/bin/bash
+
+<<note 
+this is the basic shell scripting code
+note
+
+echo "printing the hello world"
+echo ""
+echo "Displaying the current month calender"
+cal
+echo "Displaying the current date and time"
+date
+echo ""
+echo "displaying the system uptime"
+uptime
+
+
+
